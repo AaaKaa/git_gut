@@ -1,2 +1,2 @@
 # git_gut
-test
+this folder is for testing and basics functions
